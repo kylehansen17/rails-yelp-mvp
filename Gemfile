@@ -59,3 +59,8 @@ end
 
 gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
+
+# Custom added
+
+gem "simple_form"
+gem 'faker'
